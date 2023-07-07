@@ -110,4 +110,10 @@ export class ProductsComponent implements OnInit {
       this.showProductDetail = false;
     });
   }
+
+  // public onGetBuildings() {
+  //   this.productsService.getBuildings().subscribe((data) => {
+  //     console.log(data);
+  //   });
+  // }
 }
