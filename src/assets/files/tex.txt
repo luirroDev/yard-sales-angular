@@ -1,1 +1,75 @@
-Hola Mundo!
+// 20230707190155
+// https://www.simcompanies.com/api/v2/companies/buildings/24985468/sales-orders/
+
+[
+  {
+    "id": 14830182,
+    "datetime": "2023-07-05T23:45:10.693983+00:00",
+    "searchCost": 30395,
+    "resources": [
+      {
+        "amount": 5,
+        "price": 43230,
+        "kind": {
+          "name": "Single engine plane",
+          "image": "images/resources/single-engine.png",
+          "db_letter": 97,
+          "transportation": 100.0,
+          "retailable": true,
+          "research": false,
+          "exchangeTradable": false
+        }
+      },
+      {
+        "amount": 1,
+        "price": 238861,
+        "kind": {
+          "name": "Jumbo jet",
+          "image": "images/resources/jumbojet2.png",
+          "db_letter": 95,
+          "transportation": 2000.0,
+          "retailable": true,
+          "research": false,
+          "exchangeTradable": false
+        }
+      }
+    ],
+    "qualityBonus": 2.68,
+    "speedBonus": 0
+  },
+  {
+    "id": 14830183,
+    "datetime": "2023-07-05T23:45:11.615136+00:00",
+    "searchCost": 30395,
+    "resources": [
+      {
+        "amount": 4,
+        "price": 63266,
+        "kind": {
+          "name": "Satellite",
+          "image": "images/resources/satellite.png",
+          "db_letter": 99,
+          "transportation": 10.0,
+          "retailable": true,
+          "research": false,
+          "exchangeTradable": false
+        }
+      },
+      {
+        "amount": 1,
+        "price": 227536,
+        "kind": {
+          "name": "Jumbo jet",
+          "image": "images/resources/jumbojet2.png",
+          "db_letter": 95,
+          "transportation": 2000.0,
+          "retailable": true,
+          "research": false,
+          "exchangeTradable": false
+        }
+      }
+    ],
+    "qualityBonus": 1.46,
+    "speedBonus": 0
+  }
+]
